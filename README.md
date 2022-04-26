@@ -14,13 +14,13 @@ For us to complete our analysis we must extract our data from Amazon wireless S3
 
 ## Results
 
-![total]()
+![total](https://github.com/QQrex/Amazon_Vine_Analysis/blob/main/Images/total_df.PNG)
 - With our dataset containing over 9 million reviews, we decided to narrow down our dataset by filtering for reviews with helpful votes percentage greater than 50%. In our helpful reviews, we found 585 vine subscriber reviews and 61139 non vine subscriber reviews.
 
-![five]()
+![five](https://github.com/QQrex/Amazon_Vine_Analysis/blob/main/Images/5star_df.PNG)
 - From there we narrowed down our search for only 5-star reviews and found a total of 213 vine subscriber reviews and 28839 non vine subscriber reviews.
 
-![percent]()
+![percent](https://github.com/QQrex/Amazon_Vine_Analysis/blob/main/Images/percent_df.PNG)
 - Finally, we calculated 36.41 % of vine subscribers gave 5 star reviews and 47.17% of non-vine subscribers gave 5 star reviews.
 
 ## Summary
