@@ -14,15 +14,15 @@ For us to complete our analysis we must extract our data from Amazon wireless S3
 
 ## Results
 
-![total](https://github.com/QQrex/Amazon_Vine_Analysis/blob/main/Images/total%20count%20df.PNG)
-- With our dataset containing over 9 million reviews, we decided to narrow down our dataset by filtering for reviews with helpful votes percentage greater than 50%. In our helpful reviews, we found 613 vine subscriber reviews and 64968 non vine subscriber reviews.
+![total]()
+- With our dataset containing over 9 million reviews, we decided to narrow down our dataset by filtering for reviews with helpful votes percentage greater than 50%. In our helpful reviews, we found 585 vine subscriber reviews and 61139 non vine subscriber reviews.
 
-![five](https://github.com/QQrex/Amazon_Vine_Analysis/blob/main/Images/five%20star%20df.PNG)
-- From there we narrowed down our search for only 5-star reviews and found a total of 222 vine subscriber reviews and 30543 non vine subscriber reviews.
+![five]()
+- From there we narrowed down our search for only 5-star reviews and found a total of 213 vine subscriber reviews and 28839 non vine subscriber reviews.
 
-![percent](https://github.com/QQrex/Amazon_Vine_Analysis/blob/main/Images/percent%20df.PNG)
-- Finally, we calculated 36.22 % of vine subscribers gave 5 star reviews and 47.01% of non-vine subscribers gave 5 star reviews.
+![percent]()
+- Finally, we calculated 36.41 % of vine subscribers gave 5 star reviews and 47.17% of non-vine subscribers gave 5 star reviews.
 
 ## Summary
 
-In summary, when looking at only helpful reviews from our Amazon dataset, we see 36.22% of vine subscribers and 47.01% of non-vine subscribers giving 5-star reviews. This is only about a 10% difference, so we can say for 5-star reviews there is no bias from vine subscribers. However, we can only say that about 5-star reviews. We can expand on our analysis by filtering our data for verified or not verified purchase as well. In addition, we can also
+In summary, when looking at only helpful reviews from our Amazon dataset, we see 36.41% of vine subscribers and 47.17% of non-vine subscribers giving 5-star reviews. This is only about a 10% difference, so we can say for 5-star reviews there is no bias from vine subscribers. However, we can only say that about 5-star reviews. We can expand on our analysis by filtering our data for verified or not verified purchase as well. In addition, we can also
